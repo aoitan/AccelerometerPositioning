@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="SpinnerItems">
+        <item>FASTEST</item>
+        <item>GAME</item>
+        <item>UI</item>
+        <item>NORMAL</item>
+    </string-array>
+
+</resources>
